@@ -1,16 +1,44 @@
-# React + Vite
+# 📘 Projeto React + TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto desenvolvido utilizando **React** e **TailwindCSS**, focado em performance, componentização e uma interface moderna.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias Utilizadas
 
-## React Compiler
+* **React** — Biblioteca JavaScript para construção de interfaces.
+* **Vite / Create React App** — *(Ajuste conforme seu setup)*.
+* **TailwindCSS** — Framework CSS utilitário para estilização rápida e consistente.
+96
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Instalação e Execução
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2. Instale as dependências
+
+```bash
+npm install
+```
+
+### 3. Execute o projeto
+
+```bash
+npm run dev
+```
+
+> O projeto será iniciado em: [http://localhost:5173](http://localhost:5173) ou similar.
+
+---
+
+
+---
+
+## 👨‍💻 Autor
+
+**Seu Nome**
+[LinkedIn](https://linkedin.com/in/seu-usuario) • [GitHub](https://github.com/seu-usuario)
+
+---
+
+Se precisar que eu personalize com o nome do seu projeto, tecnologias extras ou se quiser deixar mais profissional, é só pedir! 🚀✨
