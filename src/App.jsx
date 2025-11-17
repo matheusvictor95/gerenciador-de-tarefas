@@ -23,7 +23,7 @@ function App() {
     fetchTasks();
   }, []);
 
-  function onTaskclick(taskId) {
+  function onTaskClick(taskId) {
     const newTasks = tasks.map((task) => {
       if (task.id === taskId) {
         return { ...task, isCompleted: !task.isCompleted };
@@ -57,7 +57,7 @@ function App() {
         <AddTask onAddTaskSubmit={onAddTaskSubmit} />
         <Tasks
           tasks={tasks}
-          onTaskclick={onTaskclick}
+          onTaskClick={onTaskClick}
           onDeleteTaskClick={onDeleteTaskClick}
         />
       </div>
