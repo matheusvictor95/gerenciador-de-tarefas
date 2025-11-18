@@ -37,8 +37,8 @@ npm run dev
 ## 👨‍💻 Autor
 
 **Seu Nome**
-[LinkedIn](https://linkedin.com/in/seu-usuario) • [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/matheus-victor-dev-web/) 
 
 ---
 
-Se precisar que eu personalize com o nome do seu projeto, tecnologias extras ou se quiser deixar mais profissional, é só pedir! 🚀✨
+
